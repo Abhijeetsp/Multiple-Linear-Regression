@@ -2,7 +2,7 @@
 <br>
 Demonstration of developing a  model which would derive the relationship between the output and input data this is a similar case of
 linear regression but in this case we have more than one vaiable which are contrbuting to the output. Consider the following diagram<br>
-add ![Model](1.png)
+![Model](1.png)
 
 
 
